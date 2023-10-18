@@ -241,7 +241,7 @@ header.sticky .menuzord-menu>li>a,
 .menuzord-menu ul.dropdown li:hover>a{color:#eee;}
 .menuzord-menu ul.dropdown li a{color:#777;}
 .menuzord-responsive.menuzord{padding:0}
-.menuzord-responsive .logo-brand{padding-top:10px;padding-right:30px}
+.menuzord-responsive .logo-brand{padding-top:10px;padding-right:30px;float: none;font-size: 1.5rem;}
 .tt-nav.sticky .logo-brand{margin:8px 0 0;}
 .tt-nav .logo-brand img{height:30px;}
 .menuzord-responsive .showhide{margin:0}
